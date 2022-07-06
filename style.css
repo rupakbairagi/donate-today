@@ -1,0 +1,306 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 700px;
+    
+}
+
+.top-banner{
+
+    background-image: url("images/donation9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+     /*height: 100vh;
+    width: 100%;*/
+    
+   
+   
+
+    
+   
+}
+.top-div{
+    width: 50%;
+    
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    padding-left: 25%;
+        
+}
+.top-div h1{
+    font-size: 60px;
+}
+.top-div p{
+    font-size: 20px;
+}
+.link-button{
+    
+    text-decoration: none;
+    
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-color: tomato;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.middle-div{
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    
+    padding-left: 10%;
+
+    
+
+}
+.button-amount{
+
+    width: 120px;
+    height: 120px;
+    margin: 50px;
+    padding-top: 2%;
+   
+    
+    font-size: 30px;
+    font-weight: 700;
+    color: #878787;
+    border: none;
+    border-radius: 5px;
+}
+.special{
+    border: 2px solid tomato;
+    background-color: #FFEEEE;
+    color: tomato;
+ 
+}
+
+.donation-text{
+    text-align: center;
+   
+}
+
+
+.donation-text h2{
+    font-size: 40px;
+   
+
+}
+.donation{
+    margin-top: 150px;
+}
+.input-anchor{
+    width: 50%;
+    margin-left: 25%;
+    
+
+}
+.input{
+    border:none;
+    border-bottom: 1px solid lightgray;
+    padding: 5px 10px;
+    outline: none;
+    font-size: 20px;
+    color: lightgray;
+    width: 100%;
+    text-align: center;
+}
+.second-button{
+    margin-left: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.donate-plan{
+    
+    padding-left: 10%;
+    text-align: center;
+    
+    width: 80%;
+    
+    
+}
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.icons{
+    width: 30%;
+    height: 250px;
+    margin: 20px;
+    
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
+}
+.first{
+    background-color: #EDF5F6;
+}
+.second{
+    background-color: #FFEEEE;
+}
+.third{
+    background-color: #FFF4D6;
+}
+.donate-text{
+    width: 50%;
+    padding-left: 25%;
+    font-size: 20px;
+    
+    
+}
+.donate-text p{
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form-class{
+    
+    width: 50%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF4D6;
+    margin-left: 25%;
+}
+form{
+   
+    background: #FFF4D6;
+    width: 400px;
+    height: 50px;
+    display: flex;
+    
+}
+form input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: lightgray;
+    padding-left: 3%;
+    border-top-left-radius: 5px ;
+    border-bottom-left-radius: 5px ;
+    
+}
+form button{
+    background: tomato;
+    padding: 10px 50px;
+    border: none;
+    outline: none;
+    color: white;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-top-right-radius: 5px ;
+    border-bottom-right-radius: 5px ;
+}
+.form-paragraph{
+
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+.form-paragraph h2{
+    font-size: 40px;
+}
+.form-paragraph p{
+    color: gray;
+}
+
+
+
+
+
+footer {
+    text-align: center;
+    height: 150px;
+    padding-top: 1%;
+    
+    background-color: #0B0D17;
+    color: white;
+}
+footer h2{
+    color: tomato;
+   
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+}
