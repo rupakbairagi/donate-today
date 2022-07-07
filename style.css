@@ -110,6 +110,8 @@ section{
 
 .donation-text{
     text-align: center;
+    width: 50%;
+    margin-left: 25%;
    
 }
 
@@ -118,6 +120,11 @@ section{
     font-size: 40px;
    
 
+}
+
+.donation-text P{
+    font-size: 20px;
+    color: gray;
 }
 .donation{
     margin-top: 150px;
@@ -208,12 +215,100 @@ section{
     width: 50%;
     padding-left: 25%;
     font-size: 20px;
+    text-align: center;
     
     
 }
 .donate-text p{
     color: gray;
 }
+.donate-text h2 {
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon-first{
+    width: 30%;
+    height: 250px;
+    margin: 20px;
+    
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
+    background-color: #FFF4D6;
+}
+.icon-second{
+    width: 30%;
+    height: 250px;
+    margin: 20px;
+    
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
+    background-color: #FFF4D6;
+}
+.icon-third{
+    width: 30%;
+    height: 250px;
+    margin: 20px;
+    
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
+    background-color: #FFF4D6;
+}
+
+.icon-first img{
+    height: 50px;
+    width: 100px;
+}
+.icon-second img{
+    height: 50px;
+    width: 100px;
+}
+
+.icon-third img{
+    height: 50px;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -284,6 +379,7 @@ form button{
 }
 .form-paragraph p{
     color: gray;
+    font-size: 20px;
 }
 
 
